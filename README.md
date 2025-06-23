@@ -15,3 +15,11 @@ A Flutter app powered by FastAPI and PyTorch to help classify waste via camera o
 ```bash
 flutter pub get
 flutter run
+
+## 📱 Download Smart Waste Classifier App
+
+Download the latest Android release:
+
+➡ [Click here to download APK](https://github.com/Denjx/my-waste-api/releases/download/v1.0.0/app-release.apk)
+
+> Note: You may need to allow "Unknown Sources" on your phone to install.
